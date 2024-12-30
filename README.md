@@ -12,6 +12,14 @@ A simple task manager app built using React.js
 6. On successful execution of the command in step #5 the app will run on "localHost:3000" in your default browser
 7. If port 3000 is blocked due to some reason in your system, then the terminal in step #3 will prompt for another port and from there it will guide to run the app locally
 
+## Deployment link
+
+Link to the deployed app: <app_link>
+
+## Documentation
+
+Feature documentation, challenges faced and any other related item can be found in the following link: <doc_link>
+
 ### `npm start`
 
 Runs the app in the development mode.\
